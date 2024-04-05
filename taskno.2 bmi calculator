@@ -1,5 +1,5 @@
+arnavtyagi
 #BMI CAlCULATOR
-#arnav tyagi
 def calculate_bmi(weight, height):
     bmi = weight / (height ** 2)
     return bmi
